@@ -9,7 +9,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 Navigate to the project directory:
 
     ```bash
-    cd rooster-testing
+    cd directory
     ```
 
 Install the project dependencies:
